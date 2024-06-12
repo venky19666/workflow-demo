@@ -2,6 +2,7 @@
   "name": "@medbot/middlewares",
   "packageManager": "yarn@4.3.0",
   "main": "./dist/index.js",
+  "types": "./dist/@types",
   "devDependencies": {
     "@types/node": "^20.14.2",
     "nodemon": "^3.1.3",
