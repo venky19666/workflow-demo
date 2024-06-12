@@ -1,4 +1,8 @@
 {
   "name": "workspace-demo",
-  "packageManager": "yarn@4.3.0"
+  "packageManager": "yarn@4.3.0",
+  "workspaces": [
+    "services/*",
+    "libs/*"
+  ]
 }
